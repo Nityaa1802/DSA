@@ -135,6 +135,7 @@ public class BinarySearchTree {
         }
     }
 
+    
     public static void main(String[] args) {
         BinarySearchTree tree=new BinarySearchTree(45);
         tree.insert(new Node(15),tree.root);

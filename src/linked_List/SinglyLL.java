@@ -1,4 +1,4 @@
-package Linked_List;
+package linked_List;
 
 
 /*   A node in singly LLconsist of two parts

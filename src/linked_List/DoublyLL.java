@@ -1,4 +1,4 @@
-package Linked_List;
+package linked_List;
 
 /*  A node of doubly LL consist of three parts
     -> data

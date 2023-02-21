@@ -1,4 +1,4 @@
-package Linked_List;
+package linked_List;
 
 /*   Circular Doubly Linked List has properties of both doubly linked list
  and circular linked list in which two consecutive elements are linked or

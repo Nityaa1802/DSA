@@ -1,4 +1,4 @@
-package Queue;
+package queue;
 
 public class CircularQueue {
     int front,rear,capacity;

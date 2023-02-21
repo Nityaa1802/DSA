@@ -1,4 +1,4 @@
-package Linked_List;
+package linked_List;
 
 /*  In a singly linked list, for accessing any node of the linked list,
 we start traversing from the first node. If we are at any node in the
